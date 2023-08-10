@@ -1,1 +1,3 @@
 *.exe
+kenai.exe
+archivo.exe
